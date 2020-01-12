@@ -4,7 +4,7 @@ Mumbai Suburban Rail Map with minimal straight lines and simplified geographic d
 ![mrm_featured_image_wide_linear_960](https://user-images.githubusercontent.com/9861917/63509523-fe11f000-c4f9-11e9-9b01-627f4e3910ae.jpg)
 
 ## Use the Map
-copy and paste the code below and paste in your website or blog to display the latest version of the map:
+copy the code below and paste in your website or blog to display the latest version of the map:
 
 #### Mumbai Rail Map - Linear - in English:
 ```
