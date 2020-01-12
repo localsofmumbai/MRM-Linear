@@ -6,7 +6,7 @@ Mumbai Suburban Rail Map with minimal straight lines and simplified geographic d
 ## Use the Map
 copy the code below and paste in your website or blog to display the latest version of the map:
 
-#### Mumbai Rail Map - Linear - in English:
+#### Mumbai Rail Map - Linear - English:
 ```
 <a href="https://localsofmumbai.com/"><img border="0" src="https://maps.localsofmumbai.com/en/linear.jpg" alt="Mumbai Rail Map" width="100% auto"></a>
 ```
